@@ -27,3 +27,4 @@ https://raw.githubusercontent.com/yangchuansheng/clash-rules/main/Proxy-Domain.l
 https://raw.githubusercontent.com/yangchuansheng/clash-rules/main/Proxy-CIDR.list
 https://raw.githubusercontent.com/yangchuansheng/clash-rules/main/Direct-Domain.list
 https://raw.githubusercontent.com/yangchuansheng/clash-rules/main/Direct-CIDR.list
+https://gist.githubusercontent.com/anenin23/e7a99ddde3b20f6c812d26e3d70f5fe1/raw/b9a9ccbf33de44f5421ca025f6c8e9b965674522/dropbox.list
