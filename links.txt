@@ -40,4 +40,4 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 
-https://gist.githubusercontengithubt.com/anenin23/d2c40ac09b8c61a6d05d920352e9aa1a/raw/bf5c23a2876acfe9ca3d96a2f91803bf85e2e7da/Direct.list
+https://gist.githubusercontent.com/anenin23/d2c40ac09b8c61a6d05d920352e9aa1a/raw/bf5c23a2876acfe9ca3d96a2f91803bf85e2e7da/Direct.list
